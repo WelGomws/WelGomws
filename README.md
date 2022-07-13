@@ -1,4 +1,4 @@
-## Hello, I'm Wellington Gomes, full stack developer!
+## Hello 👋! I'm Wellington, developer fullstack!
 
 
 <div align="center">
