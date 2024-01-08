@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/WelGomws">
-  <img src="https://github-readme-stats.vercel.app/api/?username=welgomws&style=for-the-badge&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=faf6fe&show_icons=true&icon_color=dbbcf6&rank_icon=github&count_private=true"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welgomws&layout=compact&langs_count=7&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=121111"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=welgomws&style=for-the-badge&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=faf6fe&show_icons=true&icon_color=dbbcf6&rank_icon=github&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welgomws&layout=compact&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=faf6fe&langs_count=7"/>
 </div>
 
 
@@ -18,7 +18,7 @@
 
 ## **Skills wall:**
 
-<p align="left">
+<div>
 <img src="https://img.shields.io/badge/javascript-8435bb?logo=javascript&style=for-the-badge&logoColor=f2f2f2"/>
 <img src="https://img.shields.io/badge/typescript-8435bb?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-8435bb?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
@@ -48,3 +48,4 @@
 <img src="https://img.shields.io/badge/eslint-b778e8?style=for-the-badge&logo=eslint&logoColor=F2F2F2" />
 <img src="https://img.shields.io/badge/prettier-b778e8?style=for-the-badge&logo=prettier&logoColor=f2f2f2" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-B778E8?style=for-the-badge&logo=visual%20studio%20code&logoColor=F2F2F2" />
+</div>
