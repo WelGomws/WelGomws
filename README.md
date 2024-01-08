@@ -3,12 +3,12 @@
 <div align="center">
   <a href="https://github.com/WelGomws">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=welgomws&style=for-the-badge&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=faf6fe&show_icons=true&icon_color=dbbcf6&rank_icon=github&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=welgomws&layout=compact&title_color=8435bb&text_color=dbbcf6&bg_color=00000000&border_color=faf6fe&langs_count=7"/>
 </div>
 
 
 ## You can find me on:
 <div>
+  <h1>You can find me on</h1>
   <a href = "mailto:wellingtondomingos.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8435bb?style=for-the-badge&logo=gmail&logoColor=f2f2f2" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellington-domingos-gomes-6a5b25160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8435bb?style=for-the-badge&logo=linkedin&logoColor=f2f2f2" target="_blank"></a>
   <a href="https://www.instagram.com/weelgomws/" target="_blank">
