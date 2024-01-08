@@ -8,7 +8,6 @@
 
 ## You can find me on:
 <div>
-  <h1>You can find me on</h1>
   <a href = "mailto:wellingtondomingos.gomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8435bb?style=for-the-badge&logo=gmail&logoColor=f2f2f2" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wellington-domingos-gomes-6a5b25160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8435bb?style=for-the-badge&logo=linkedin&logoColor=f2f2f2" target="_blank"></a>
   <a href="https://www.instagram.com/weelgomws/" target="_blank">
